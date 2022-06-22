@@ -1,0 +1,13 @@
+/* p{background-color: coral;
+    }
+
+#idselector{background-color: aliceblue;}
+
+.class_selector{display: flexbox;}
+h1{color: aqua;} */
+
+@media(min-width:768px){
+    .news-input{
+        width:50%;
+    }
+}
