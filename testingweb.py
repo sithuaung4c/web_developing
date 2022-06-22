@@ -7,4 +7,4 @@ import streamlit.components.v1 as components
 
 HtmlFile = open("bootstraptest.html", 'r', encoding='utf-8')
 source_code = HtmlFile.read() 
-components.html(source_code,height=1300,width=1300)
+components.html(source_code,height=1300,width=1200)
